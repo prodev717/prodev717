@@ -12,3 +12,8 @@
 - Creative and Graphic Coding
 - Mini Game Development
 - Arduino (Embedded Systems)
+
+## Other Platforms
+- **YouTube:** [Blackboard717](https://youtube.com/@blackboard717)
+- **Instagram:** [musicon717](https://instagram.com/musicon717)
+- **LinkedIn:** [Ganesh M](https://www.linkedin.com/in/ganesh-m-2a5720299)
