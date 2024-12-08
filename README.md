@@ -16,4 +16,4 @@
 ## Other Platforms
 - **YouTube:** [Blackboard717](https://youtube.com/@blackboard717)
 - **Instagram:** [musicon717](https://instagram.com/musicon717)
-- **LinkedIn:** [Ganesh M](https://www.linkedin.com/in/ganesh-m-2a5720299)
+- **LinkedIn:** [Ganesh M](https://www.linkedin.com/in/ganesh-murugan-72338532a)
