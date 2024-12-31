@@ -5,7 +5,7 @@
 - **Web Development:** HTML/CSS, HTMX, Tailwind CSS, React, FastAPI, Flask
 - **Mobile Development:** React Native
 - **Databases:** MongoDB, MySQL
-- **BaaS** PocketBase, FireBase
+- **BaaS:** FireBase
 
 ## Interests
 - Full Stack Development
