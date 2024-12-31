@@ -2,16 +2,19 @@
 
 ## Skills
 - **Languages:** Python, JavaScript
-- **Web Development:** React, HTML/CSS, FastAPI, Flask
+- **Web Development:** HTML/CSS, HTMX, Tailwind CSS, React, FastAPI, Flask
 - **Mobile Development:** React Native
-- **Databases:** MongoDB
+- **Databases:** MongoDB, MySQL
+- **BaaS** PocketBase, FireBase
 
 ## Interests
 - Full Stack Development
+- Networking
+- Computer Vision
 - AI & ML Algorithms
 - Creative and Graphic Coding
 - Mini Game Development
-- Arduino (Embedded Systems)
+- Arduino, Raspberry Pi (Embedded Systems)
 
 ## Other Platforms
 - **YouTube:** [Blackboard717](https://youtube.com/@blackboard717)
