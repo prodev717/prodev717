@@ -44,7 +44,7 @@ Here's an updated version of your **🌟 Real-Time Projects** section, now inclu
 A visually engaging and responsive website designed for the Otaku Haven club at VIT-AP. This single-page application (SPA) showcases information about the club, anime recommendations, upcoming events, and more.
 
 - **Frontend:** Built using React and Tailwind CSS for a modern, minimalist, and fully responsive UI.  
-  [View Website](https://otakuhavenclub.netlify.app/)
+  [View Website](https://otakuhaven.netlify.app/)
 
 **Tech Stack:** React, Tailwind CSS
 
