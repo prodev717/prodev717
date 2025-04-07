@@ -36,3 +36,15 @@ A comprehensive solution for managing and publishing articles for the Newspaper 
 
 **Tech Stack:** React, Material-UI, FastAPI, MongoDB, React Native
 
+Here's an updated version of your **🌟 Real-Time Projects** section, now including your **Otaku Haven** website:
+
+---
+
+### Otaku Haven Club Website – VIT-AP  
+A visually engaging and responsive website designed for the Otaku Haven club at VIT-AP. This single-page application (SPA) showcases information about the club, anime recommendations, upcoming events, and more.
+
+- **Frontend:** Built using React and Tailwind CSS for a modern, minimalist, and fully responsive UI.  
+  [View Website](https://otakuhavenclub.netlify.app/)
+
+**Tech Stack:** React, Tailwind CSS
+
