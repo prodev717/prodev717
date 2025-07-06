@@ -2,7 +2,7 @@
 
 ## Skills
 - **Languages:** Python, JavaScript
-- **Web Development:** HTML/CSS, HTMX, Tailwind CSS, React, FastAPI, Flask
+- **Web Development:** HTML/CSS, HTMX, Tailwind CSS, React, FastAPI, Flask, PHP
 - **Mobile Development:** React Native, Flutter
 - **Databases:** MongoDB, MySQL, SQLite
 - **BaaS:** FireBase
