@@ -19,7 +19,8 @@
 ## Other Platforms
 - **YouTube:** [Blackboard717](https://youtube.com/@blackboard717)
 - **Instagram:** [musicon717](https://instagram.com/musicon717)
-- **LinkedIn:** [Ganesh M](https://www.linkedin.com/in/ganesh-murugan-72338532a)
+- **LinkedIn:** [Ganesh M](https://www.linkedin.com/in/ganesh717)
+- **Portfolio:** [Ganesh M](https://ganesh717.netlify.app/)
 
 ## 🌟 Real-Time Projects
 ### Full-Stack App for Newspaper Club - VIT-AP
