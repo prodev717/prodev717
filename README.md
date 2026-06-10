@@ -21,10 +21,10 @@ Full Stack Developer & Freelancer
 - Arduino, Raspberry Pi, ESP32 (Embedded Systems)
 
 ## Featured Projects
-- **Web Embedded Python (WEP)** — A lightweight Python-based template engine and micro framework inspired by PHP, allowing native Python inside HTML for rapid web development. [Repo](https://github.com/prodev717/web-embedded-python) | [Website](https://web-embedded-python.netlify.app/)
-- **AWFEX** — An open-source workflow automation engine inspired by n8n, enabling visual workflows and custom function orchestration with Express.js and HTTP triggers. [Repo](https://github.com/prodev717/awfex) | [Website](https://awfex.netlify.app/)
+- **Web Embedded Python (WEP):** A lightweight Python-based template engine and micro framework inspired by PHP, allowing native Python inside HTML for rapid web development. [Repo](https://github.com/prodev717/web-embedded-python) | [Website](https://web-embedded-python.netlify.app/)
+- **AWFEX:** An open-source workflow automation engine inspired by n8n, enabling visual workflows and custom function orchestration with Express.js and HTTP triggers. [Repo](https://github.com/prodev717/awfex) | [Website](https://awfex.netlify.app/)
 
-## Club works
+## Club Works
 ### Full-Stack App for Newspaper Club - VIT-AP
 A comprehensive solution for managing and publishing articles for the Newspaper Club at VIT-AP.
 - **Website:** [https://vitapnewspaperclub.netlify.app/home](https://vitapnewspaperclub.netlify.app/home)
